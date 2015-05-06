@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joojoo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/joojoo/AndroidStudioProjects/PhoneBook/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-6798bebeb0b5e0598c49d9990f557fd433071e2d.jar" />
+    </item>
+    <item
+        jar="/Users/joojoo/AndroidStudioProjects/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/joojoo/AndroidStudioProjects/PhoneBook/app/build/intermediates/pre-dexed/debug/classes-816005a0fa0e61030451824708216d2d92d848b4.jar" />
+    </item>
+    <item
+        jar="/Users/joojoo/AndroidStudioProjects/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/joojoo/AndroidStudioProjects/PhoneBook/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-e19979c81cd83d0da2e148d0a07a7cd1f11b4d19.jar" />
+    </item>
+    <item
+        jar="/Users/joojoo/AndroidStudioProjects/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/joojoo/AndroidStudioProjects/PhoneBook/app/build/intermediates/pre-dexed/debug/classes-f7862faa66dd88ddf45b18a9cf38a0e8be91e832.jar" />
+    </item>
+
+</items>
